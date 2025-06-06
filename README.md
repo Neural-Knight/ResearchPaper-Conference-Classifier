@@ -134,7 +134,7 @@ The repository is organized into two main directories for clarity and separation
 ---
 
 ## 💡 Creators
-This project was developed by:
+This project was developed by:-
 
 - **Malyadip Pal**  
   [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Neural-Knight) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malyadip-pal-bb034726a/)  
